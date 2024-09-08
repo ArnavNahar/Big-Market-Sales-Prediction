@@ -63,23 +63,6 @@ The dataset used for this project is publicly available on Kaggle and contains s
 
 ---
 
-### How to Use:
-
-1. **Install required libraries:**  
-   Install the necessary dependencies using the `requirements.txt` file.
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-2. **Run the notebook:**
-   Use Jupyter Notebook or any Python IDE to open and run the notebook for data exploration and model training.
-
-3. **Experiment:**
-   You can modify the ANN architecture and parameters in the `train_model.py` script to try and improve the model's performance.
-
----
-
 ### Technologies Used:
 - **Programming Language:** Python
 - **Libraries:** Pandas, NumPy, TensorFlow/Keras, Matplotlib, Seaborn
